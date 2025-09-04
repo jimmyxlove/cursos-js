@@ -13,5 +13,8 @@ console.log ("receita de bolo simples");
 console.log ("igredientes");
 
 // Exibindo cada igrediente da lista
-
+igredientes.forEach ((iten,idex) => {
+    console.log {-}
+}
+)
 
