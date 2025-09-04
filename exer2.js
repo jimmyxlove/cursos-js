@@ -12,9 +12,7 @@ const igredientes = [
 console.log ("receita de bolo simples");
 console.log ("igredientes");
 
-// Exibindo cada igrediente da lista
-igredientes.forEach ((iten,idex) => {
-    console.log {-}
-}
-)
+// Exibindo cada ingrediente da lista
+igredientes.forEach((item, index) => {
+console.log(`${index + 1} - ${item}`);});
 
