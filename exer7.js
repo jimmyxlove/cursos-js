@@ -8,6 +8,6 @@ let educacao = 200;
 console.log("--- Despesas familiares registradas ---");
 console.log(`moradia: ${moradia}`);
 console.log(
-console.log()
+console.log(
 )
 

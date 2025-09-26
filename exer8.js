@@ -9,4 +9,4 @@ console.log ("resto:", a % b);
 
 console.log ("a é maior que b?", a > b);
 console.log ("a é menor que b?", a < b);
-console.log ("a é igaul a b?", a=== b);
+console.log ("a é igual a b?", a=== b);
