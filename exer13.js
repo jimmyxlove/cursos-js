@@ -1,5 +1,5 @@
 // Array de faturamento diario da semana
-const faturamentoDiario [1500, 2200, 1800, 3100, 2500, 4000, 3500];
+const faturamentoDiario = [1500, 2200, 1800, 3100, 2500, 4000, 3500];
 // Array con os nomes dos dias da semana
 const diasDaSemana
 ['Segunda-feira',
