@@ -10,8 +10,8 @@ const diasDaSemana
 'Domingo'];
 Calcular o faturaments total da senana
 Ist faturamentoTotal = 0;
-for (let 10 i < faturamentoDiario.length; i++) { 
-faturamentoTotal faturamentoDiario[1]; }
+for (let i = 0; i < faturamentoDiario.length; i++) { 
+faturamentoTotal faturamentoDiario[i]; }
 
 console.log(Faturamento total da semana: R$ ${faturamentoTotal.toFixed(2)});
 // 2. Identificar o maior faturamento e o dia em que ocorreu
